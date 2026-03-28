@@ -2,4 +2,5 @@
 this repository is for practicing the github flow
 this is first i do commit and update 
 if merge commit
-if squash and mergehhh
+if squash and merge
+if draft
